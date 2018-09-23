@@ -21,10 +21,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'chs.us'
+description: 'General thoughts about security, development, or anything I find generally interesting...'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://s.gravatar.com/avatar/899bf2fb95c4a0af1ba6243f7c16897c?s=80"
 
 # Pagination
 paginate: 5
